@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/analyze-symptoms.js": {
+    "api/**/*.js": {
       "maxDuration": 60
     }
   }
