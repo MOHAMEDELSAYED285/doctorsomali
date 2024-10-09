@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "api/analyze-symptoms.js": {
+        "maxDuration": 60
+      }
+    }
+  }
